@@ -1,7 +1,7 @@
 streamlit==1.35.0
-diffusers==0.25.0
+diffusers==0.27.2  # Updated to the latest version
 transformers==4.38.2
-torch==2.1.2
+torch==2.2.2  # Updated to a compatible version
 accelerate==0.27.1
 xformers==0.0.23.post1
 ffmpeg-python==0.2.0
